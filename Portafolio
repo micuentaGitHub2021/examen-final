@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Página web Josselin</title>
+    <link rel="shortcut icon" href="img/rox.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="./index.html">Inicio</a>
+            <a href="./DATOS PERSONALES.html">Datos Personales</a>
+            <a href="./Portafolio.html">Portafolio de Cursos</a>
+            <a href="./Servicio.html">Titulos y Reconocimientos</a>
+            <a href="./ExperienciaProfesional.html">Eperiencia Profesional</a>
+        </nav>
+        <section class="textos-header">
+            <b><h2>PORTAFOLIO DE CURSOS Y CERTIFICACIONES</h2></b>
+            <b><h2>Datos</h2></b>
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: rgb(132, 243, 215);"></path>
+            </svg></div>
+    </header>
+    <main>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">MIS CURSOS</h2>
+            <div class="contenedor-sobre-nosotros">
+                <div class="contenido-textos">
+                    <h3>Cursos UVG</h3><hr>
+                    <p>Aprovacion de 29 Cursos en la carrera de Profesorado en MATEMATICA y COMPUTACION</p>
+                    <h3>Cursos UMG</h3><hr>
+                    <p>Aprovacion de 29 Cursos en la carrera de Profesorado en MATEMATICA y COMPUTACION</p>
+                    <h3>Cursos en Docencia</h3><hr>
+                    <p>- Certificación Lingüística del idioma k’iche’, aprobado con 86 pts
+                        - Cursos WEMATHS<br>
+                       - Evaluación diagnostica con promedio de; 71.</p>
+                       <section class="contenedor sobre-nosotros">
+                        <h2 class="titulo">CETIFICACIONES Y LOGROS DE FORMACION</h2>
+                       <p>◾ Programación Básica Nivel Principiantes; por el informático Roberto Ben, creador de la aplicación “Traductores de idiomas Guatemala”<br>
+                          ◾ “Promoción de la Cultura de Denuncia por el Delito de Discriminación” Dirigido a lideresas en el evento de Rabin Ajaw, 2019-2020<br>
+                          ◾ Certificaciones Del Curso Lenguaje de Java (E-LEARNING)<br>
+                          ◾ Cursos y talleres para líderes del Comité Comunitario de Protección a la niñez y adolescencia, durante 6 meses.<abr></abr>  
+                        </p>
+    </main>
+</body>
+
+</html>

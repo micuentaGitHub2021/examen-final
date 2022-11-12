@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Página web Josselin</title>
+    <link rel="shortcut icon" href="img/rox.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="./index.html">Inicio</a>
+            <a href="./DATOS PERSONALES.html">Datos Personales</a>
+            <a href="./Portafolio.html">Portafolio de Cursos</a>
+            <a href="./Servicio.html">Titulos y Reconocimientos</a>
+            <a href="./ExperienciaProfesional.html">Eperiencia Profesional</a>
+        </nav>
+        <section class="textos-header">
+            <b><h2>TITULOS Y CERTIFICACIONES</h2></b>
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: rgb(245, 131, 131);"></path>
+            </svg></div>
+    </header>
+    <main>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">TITULOS Y RECONOCIMIENTOS</h2>
+            
+                <div class="contenido-textos">
+                    <h3><span>1</span>☆ </h3>
+                    <p>Título del Profesorado de Enseñanza Media Especializado en Matemáticas y Computación.</p>
+                    <h3><span>2</span>☆ </h3>
+                    <p>Título Maestra de Educación Primaria Bilingüe Intercultural.</p>
+                    <h3><span>3</span>☆ </h3>
+                    <p>Diploma de Mención Académica por alto desempeño académico, participación y comportamiento extendido por la Universidad del Valle de Guatemala 2015, 2016 y 2017</p>
+                    <h3><span>4</span>☆ </h3>
+                    <p>Constancia de cierre del Noveno semestre de la carrera de Ingeniería en Sistemas y Ciencias de la Comunicación</p>
+                    <h3><span>5</span>☆</h3>
+                    <p>24 diplomas como reconocimiento al liderazgo y participación (en grupos culturales sociales, deportivos y religiosos)</p>
+                </div>
+            </div>
+        </section>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Telefono / Cel</h4>
+                <p>44637872</p>
+                    <p>35153849</p>
+            </div>
+            <div class="content-foo">
+                <h4>Correo</h4>
+                <p>jyacv@miumg.edu.gt</p>
+                <p>josselinroxanayacvasquez@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Lugar de Residencia</h4>
+                <p>Santa Lucia Utatlan, Solola</p>
+            </div>
+        </div>
+        <h6 class="titulo-final">&copysr; JOSSELIN ROXANA YAC VASQUEZ | DOCENTE EN MATEMATICA Y COMPUTACION</h6>
+    </footer>
+</body>
+</html>

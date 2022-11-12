@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Página web Josselin</title>
+    <link rel="shortcut icon" href="img/rox.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="./index.html">Inicio</a>
+            <a href="./DATOS PERSONALES.html">Datos Personales</a>
+            <a href="./Portafolio.html">Portafolio de Cursos</a>
+            <a href="./Servicio.html">Titulos y Reconocimientos</a>
+            <a href="./ExperienciaProfesional.html">Eperiencia Profesional</a>
+        </nav>
+        <section class="textos-header">
+            <b><h2>CONTACTO PROFESIONAL DE JOSSELIN</h2></b>
+            <b><h2>TRABAJO PARA INGENIERIA</h2></b>
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: rgb(7, 131, 180);"></path>
+            </svg></div>
+    </header>
+    <main>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">QUIEN SOY</h2>
+            <div class="contenedor-sobre-nosotros">
+                <img src="img/ilustracion2.svg" alt="" class="imagen-about-us">
+                <div class="contenido-textos">
+                    <h3><span>1</span>☆</h3>
+                    <p>Me considero una persona capaz, solidaria, colaboradora y dinamica. Con capacidad de adaptacion y trabajo en equipo. Me propongo a cumplir mis metas y objetivos trazados.</p>
+                    <h3><span>2</span>☆</h3>
+                    <p>Soy una persona seria, responsable, con ganas de trabajar, superacion y aprender. Me considero con capacidad de liderazgo y de organizacion.</p>
+                </div>
+            </div>
+        </section>
+        <section class="portafolio">
+            <div class="contenedor">
+                <h2 class="titulo">ALGUNAS DE MIS ACTIVIDADES</h2>
+                <div class="galeria-port">
+                    <div class="imagen-port">
+                        <img src="img/mirror.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Espejo inteligente</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/cap2.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Entrega de sistema</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/cap3.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Capacitacion Sistema</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/Ni;os.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <h5><p>Experiementos con ni;os</p></h5>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/soporte3.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Soporte Tecnico en colegio</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/soporte2.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Lo que me gusta</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/codigo.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Programacion</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/misestudiantes.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Guia en Proyectos con arduino </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="clientes contenedor">
+            <h2 class="titulo">DECLARACION PERSONAL</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="img/Roxana.jpg" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>VISION</h4>
+                        <p>Ser una persona con excelencia promotora de la calidad de informacion e investigacion en el area de ingenieria, ser reconocida por aportar al desarrollo sostenible y tecnologico en el pais.!</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="img/Roxana.jpg" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>MISION</h4>
+                        <p>Difundir conocimiento cientifico y tecnologico, formando y apoyando a quienes lo neesiten, con valores. !</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">DE MI</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion1.svg" alt="">
+                        <h3>VALORES</h3>
+                        <p>✪ Respeto</p>
+                        <p>✪ Confidencialidad</p>
+                        <p>✪ Justicia</p>
+                        <p>✪ Integridad</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion4.svg" alt="">
+                        <h3>FORTALEZAS</h3>
+                        <p>✪ Liderazgo con objetivos y metas profesionales</p>
+                        <p>✪ Curiosidad e innovacion</p>
+                        <p>✪ Positiva y perseverante</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion3.svg" alt="">
+                        <h3>OBJETIVOS</h3>
+                        <p>✪ Diseñar, construir y administrar bases de datos</p>
+                        <p>✪ Desarrollar aplicaciones</p>
+                        <p>✪ Introducir procedimientos de calidad en los sitemas</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Telefono / Cel</h4>
+                <p>44637872</p>
+                    <p>35153849</p>
+            </div>
+            <div class="content-foo">
+                <h4>Correo</h4>
+                <p>jyacv@miumg.edu.gt</p>
+                <p>josselinroxanayacvasquez@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Lugar de Residencia</h4>
+                <p>Santa Lucia Utatlan, Solola</p>
+            </div>
+        </div>
+        <h6 class="titulo-final">&copysr; JOSSELIN ROXANA YAC VASQUEZ | DOCENTE EN MATEMATICA Y COMPUTACION</h6>
+    </footer>
+</body>
+
+</html>
